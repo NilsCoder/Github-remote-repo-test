@@ -1,3 +1,3 @@
-git init für den start
+git init 77 for initializing repository
 git add <file>
 git commit -m"your commit message"
